@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\GitHub\WordCount\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\Asus\Desktop\GitHub\WordCount\WordCount\bin\Debug\WordCount.exe
+C:\Users\Asus\Desktop\GitHub\WordCount\WordCount\bin\Debug\WordCount.pdb
+C:\Users\Asus\Desktop\GitHub\WordCount\WordCount\obj\Debug\WordCount.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GitHub\WordCount\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GitHub\WordCount\WordCount\obj\Debug\WordCount.exe
+C:\Users\Asus\Desktop\GitHub\WordCount\WordCount\obj\Debug\WordCount.pdb
